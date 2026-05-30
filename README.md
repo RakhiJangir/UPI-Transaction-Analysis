@@ -166,6 +166,8 @@ https://github.com/RakhiJangir/UPI-Transaction-Analysis/blob/main/Transaction%20
 
 ### Remaining Balance Dashboard
 
+https://github.com/RakhiJangir/UPI-Transaction-Analysis/blob/main/Monthly%20UPI%20Transaction%20and%20Remaining%20Balance%20Anaysis_Snapshot.png
+
 
 
 

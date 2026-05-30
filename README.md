@@ -164,6 +164,10 @@ Implemented slicer synchronization across report pages for consistent filtering.
 
 https://github.com/RakhiJangir/UPI-Transaction-Analysis/blob/main/Transaction%20Analysis%20By%20Month_Snapshot.png
 
+### Remaining Balance Dashboard
+
+
+
 
 
 
